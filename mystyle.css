@@ -24,7 +24,7 @@ li{
   float: left;
   padding: 10px;
 }
-a{
+.menu a{
   color: #fff;
   text-decoration: none;
   font-weight: bold;
@@ -40,6 +40,7 @@ a:hover {
     display: flex;
     background-color: #b5b0b1;
   }
+
 #logo{
   margin:20px;
   float: left;
