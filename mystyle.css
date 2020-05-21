@@ -37,7 +37,7 @@ a:hover {
 #logo{
   margin:20px;
   float: left;
-  width: 50px;
+  width: 200px;
   height: 50px;
   background: url(bull-bear.png) no-repeat center;
   display: block;
@@ -51,7 +51,7 @@ nav{
   background: url(menu-icon.png);
   display: hidden;
   width: 32px;
-  height: 32px;
+  height: 60px;
 }
 img.picture {
     width:100%;
