@@ -26,7 +26,7 @@ li{
   padding: 10px;
 }
 a{
-  collor: #fff;
+  collor: #ffffff;
   text-decoration: none;
   font-weight: bold;
 }
@@ -48,7 +48,7 @@ nav{
 }
 #menu-icon{
   background: url(menu-icon.png);
-  display: hidden;
+  display: none;
   width: 32px;
   height: 32px;
 }
@@ -67,7 +67,7 @@ img.picture {
       display: none;
       position: absolute;
       padding: 20px;
-      background: #c5c5c5
+      background-color: #c5c5c5;
       right: 10px;
       top: 65px;
       width: 35%;
