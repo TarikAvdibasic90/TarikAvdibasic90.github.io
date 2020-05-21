@@ -20,14 +20,17 @@ ul{
   list-style: none;
 }
 li{
-  display: inline-block;
-  float: left;
-  padding: 10px;
-}
-.menu a{
-  color: #fff;
-  text-decoration: none;
+  font-family: calibri;
   font-weight: bold;
+  font-size: 22px;
+  text-transform: lowercase;
+  display: flex;
+  background-color: #b5b0b1;
+}
+a{
+  color: white;
+    padding: 8px;
+    text-align: center;
 }
 a:hover {
   text-decoration: underline;
