@@ -5,7 +5,7 @@
 
 body {
 	font-family: GVerdana, "Lucida Sans Unicode", sans-serif;
-  	background-color: #888888;
+  	background-color: #e6e2d3;
 }
 
 header {
@@ -37,8 +37,8 @@ a:hover {
 #logo{
   margin:20px;
   float: left;
-  width: 200px;
-  height: 50px;
+  width: 15px;
+  height: 15px;
   background: url(bull-bear.png) no-repeat center;
   display: block;
 }
@@ -51,7 +51,7 @@ nav{
   background: url(menu-icon.png);
   display: hidden;
   width: 32px;
-  height: 60px;
+  height: 32px;
 }
 img.picture {
     width:100%;
