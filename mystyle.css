@@ -12,4 +12,12 @@ header {
     color: #F8F8F8;
     padding: 10px;
     text-align: center;
+    text-decoration: none;
+}
+.hLine{
+  font-size: 20px;
+    color: black;
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+    border-color: black;
 }
