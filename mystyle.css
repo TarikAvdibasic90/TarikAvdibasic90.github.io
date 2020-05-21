@@ -22,6 +22,7 @@ html {
     color: gray;
     margin: 0 10px;
     line-height: 70px;
+    font-weight: bold;
 }
 
 span {
