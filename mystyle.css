@@ -90,6 +90,11 @@ footer{
   margin-bottom: 5px;
 }
 
+.contentList{
+	 display: contents;
+	 align-items: center;
+}
+
 @media only screen and (max-width: 500px) {
     label {
         display: block;
