@@ -90,8 +90,10 @@ footer{
 }
 
 .contentList{
-	 display: contents;
-	 align-items: center;
+  display: flex;
+	align-items: center;
+  justify-content: center;
+  text-align: left;
 }
 
 @media only screen and (max-width: 500px) {
