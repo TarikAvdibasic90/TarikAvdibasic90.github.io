@@ -50,17 +50,10 @@ h1,h2,h3,h4,h5,h6{
   margin-left: 10px;
   font-family: Verdana;
   color: #111;
-  font-weight: bold;  
+  font-weight: bold;
 }
 
 
-.info p{
-  font-family: arial;
-  font-size: 16px;
-  color: #111;
-  line-height: 24px;
-  float: right;
-}
 
 .stock-image{
   float: left;
@@ -89,22 +82,6 @@ h1,h2,h3,h4,h5,h6{
     }
     #toggle:checked + .menu {
         display: block;
-    }
-
-    .wrapper {
-      width: 500px;
-      margin: 0 auto;
-    }
-
-    h1{
-      padding: 20px 0px 0px;
-    }
-
-    .info p{
-      padding: 20px 0px 0px;
-    }
-    .media-energepic2stocks {
-      padding-top: 30px;
     }
 
 }
