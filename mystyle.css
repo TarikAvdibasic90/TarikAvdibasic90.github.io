@@ -112,12 +112,14 @@ footer{
 	text-align: left;
 }
 
-#iframe
-{
-	width:100%;
-	height:500px;
-	border:1px solid black;
-}
+iframe{
+    border: 1px solid grey;
+    border-radius: 1px;
+    height:420px;
+    width:75%;
+    margin-left: 15px;
+  }
+
 
 
 
