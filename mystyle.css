@@ -50,7 +50,7 @@ label {
 }
 
 h1,h2,h3,h4,h5,h6{
-  margin-left: 20px;
+  margin-left: 10px;
   font-family: Verdana;
   color: #111;
   font-weight: bold;
@@ -65,10 +65,14 @@ h1,h2,h3,h4,h5,h6{
   line-height: 24px;
   float: right;
 }
-.media-energepic2stocks {
-margin-left: 20px;
-margin-bottom: 8px;
-margin-right: 8px;
+
+.stock-image{
+  float: left;
+  margin-left: 5px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  border: solid black 1px;
+  padding: 2px;"
 }
 
 @media only screen and (max-width: 500px) {
