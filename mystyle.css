@@ -90,7 +90,7 @@ footer{
 }
 
 .contentList{
-  display: flex;
+  display: table;
 	align-items: center;
   justify-content: center;
   text-align: center;
