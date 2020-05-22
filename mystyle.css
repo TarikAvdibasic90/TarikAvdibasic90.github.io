@@ -113,11 +113,10 @@ footer{
 }
 
 iframe{
-    border: 1px solid grey;
-    border-radius: 1px;
+    border: 2px solid black;
     height:420px;
     width:75%;
-    margin-left: 15px;
+    margin-left: 25px;
   }
 
 
