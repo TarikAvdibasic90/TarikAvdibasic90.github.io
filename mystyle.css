@@ -46,8 +46,7 @@ label {
   width: 100%;
 }
 
-h1,h2,h3,h4,h5,h6{
-  margin-left: 10px;
+h1,h2,h3,h4,h5,h6{  
   font-family: Verdana;
   color: #111;
   font-weight: bold;
@@ -65,7 +64,6 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .stock-image{
-  float: left;
   margin-left: 5px;
   margin-right: 8px;
   margin-bottom: 8px;
