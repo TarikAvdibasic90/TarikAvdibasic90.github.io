@@ -54,7 +54,7 @@ label {
   width: 100%;
 }
 
-h1,h2,h3,h4{
+h1,h2,h3,h4,h5,h6{
   font-family: Verdana;
   color: #111;
   font-weight: bold;
@@ -106,6 +106,8 @@ footer{
 	height:500px;
 	border:1px solid black;
 }
+
+
 
 @media only screen and (max-width: 500px) {
     label {
