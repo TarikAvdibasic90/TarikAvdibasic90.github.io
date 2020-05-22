@@ -105,6 +105,13 @@ footer{
   margin-bottom: 5px;
 }
 
+.content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+}
+
 .contentList{
   display: flex;
 	align-items: center;
