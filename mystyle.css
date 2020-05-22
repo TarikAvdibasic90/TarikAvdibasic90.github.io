@@ -112,11 +112,10 @@ footer{
 	text-align: left;
 }
 
-iframe{
-    border: 2px solid black;
-    height:420px;
-    width:75%;
-    margin-left: 25px;
+#iframe{
+  height:400px;
+  width:100%;
+  border:1px solid black;
   }
 
 
