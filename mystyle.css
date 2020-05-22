@@ -58,6 +58,9 @@ h1,h2,h3,h4,h5,h6{
   font-weight: bold;
   padding: 0px 30px 20px;
 }
+h1{
+  float: right;
+}
 
 .info p{
   padding: 0px 30px 20px;
@@ -65,10 +68,11 @@ h1,h2,h3,h4,h5,h6{
   font-size: 16px;
   color: #111;
   line-height: 24px;
+  float: right;
 }
 
 .media-energepic2stocks {
-  width: 100%;
+  float: left;
 }
 
 @media only screen and (max-width: 500px) {
