@@ -42,6 +42,35 @@ label {
 }
 
 
+
+.wrapper {
+  width: 100%;
+}
+
+.info {
+  width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6{
+  margin-left: 20px;
+  font-family: Verdana;
+  color: #111;
+  font-weight: bold;
+  padding: 0px 30px 20px;
+}
+
+.info p{
+  padding: 0px 30px 20px;
+  font-family: arial;
+  font-size: 16px;
+  color: #111;
+  line-height: 24px;
+}
+
+.media-energepic2stocks {
+  width: 100%;
+}
+
 @media only screen and (max-width: 500px) {
     label {
         display: block;
@@ -62,5 +91,64 @@ label {
         display: block;
     }
 
+    .wrapper {
+      width: 500px;
+      margin: 0 auto;
+    }
+
+    h1{
+      padding: 20px 0px 0px;
+    }
+
+    .info p{
+      padding: 20px 0px 0px;
+    }
+    .media-energepic2stocks {
+      padding-top: 30px;
+    }
+
+}
+
+@media only screen and (max-width: 1000px) {
+    label {
+        display: block;
+        cursor: pointer;
+    }
+    .menu {
+        text-align: center;
+        width: 100%;
+        display: none;
+    }
+    .menu a {
+        display: block;
+        border-bottom: 2px solid #EAEAEB;
+        margin: 0;
+
+    }
+    #toggle:checked + .menu {
+        display: block;
+    }
+
+    .wrapper {
+      width: 1000px;
+    }
+
+    .info {
+      width: 50%;
+      float: right;
+    }
+    h1{
+      padding: 20px 0px 0px 30px;
+    }
+
+    .info p{
+      padding: 20px 0px 0px 30px;
+    }
+
+    .media-energepic2stocks {
+      padding-top: 0px;
+      width: 50%;
+      float: left;
+    }
 
 }
